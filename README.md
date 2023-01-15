@@ -3,4 +3,5 @@ Compiled .exe binaries for Windows 64 bits  | Licences may vary. check original 
 
 Versions:
 
-Rana: 0.3.4
+- nostr-tool	0.2.0
+- Rana		0.3.4
